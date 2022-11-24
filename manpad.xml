@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><vehicle data_version="3" bodies_id="1072"><authors/><bodies><body><components><c d="02_wedge" t="2"><o r="1,0,0,0,1,0,0,0,1" sc="5,545454,545454,545454,x,545454"><vp y="49" z="3"/></o></c><c d="connector_hardpoint_a" t="2"><o r="-1,0,0,0,1,0,0,0,-1" bc="545454" bc2="FFFFFF" sc="14,545454,545454,545454,545454,545454,x,545454,545454,x,545454,545454,x,x,x"><vp y="50" z="2"/><logic_slots><slot/><slot/><slot/><slot/><slot/><slot/><slot><value/></slot><slot><value/></slot><slot><value/></slot><slot><value/></slot></logic_slots></o></c><c d="handle"><o bc="545454" bc2="FFFFFF" bc3="FFFFFF" sc="5,x,545454,545454,545454,545454"><vp y="49" z="7"/><logic_slots/></o></c><c d="camera_med"><o r="-1,0,0,0,0,1,0,1,0" bc="545454" bc2="FFFFFF" bc3="FFFFFF" sc="9,545454,545454,545454,x,545454,545454,x,545454,545454"><vp y="50" z="7"/><logic_slots><slot editor_connected="1"><value/></slot><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="battery_small"><o r="0,1,0,0,0,1,1,0,0" sc="2,545454,x"><vp y="50" z="6"/><logic_slots><slot/><slot/><slot/></logic_slots></o></c><c d="monitor_1"><o r="1,0,0,0,0,-1,0,1,0" sc="5,x,545454,545454,545454,545454"><vp x="-1" y="51" z="6"/><logic_slots><slot editor_connected="1"><value/></slot><slot><value/></slot><slot editor_connected="1"/></logic_slots></o></c><c d="instrument_display"><o r="0,1,0,0,0,-1,-1,0,0" bc="545454" bc2="FFFFFF" bc3="FFFFFF" sc="6,545454,x,x,545454,x,545454"><vp x="-1" y="50" z="6"/><logic_slots><slot><value/></slot><slot><value/></slot><slot/></logic_slots><display_1 type="11" name="SEEKER"><min text="-1" value="-1"/><max text="1" value="1"/><col_extra/></display_1><display_2 type="8" name="ZOOM IN" channel="1"><min text="-1" value="-1"/><max text="1" value="1"/><col_extra/></display_2><display_3 type="3" name="IR" channel="3" mode="1"><min text="-1" value="-1"/><max text="1" value="1"/><col_extra/></display_3><display_4 type="8" name="ZOOM OUT" channel="2" rot="2"><min text="-1" value="-1"/><max text="1" value="1"/><col_extra/></display_4></o></c><c d="02_wedge"><o r="0,0,1,0,-1,0,1,0,0" bc="545454" ac="545454" sc="5"><vp x="-1" y="49" z="6"/></o></c><c d="02_wedge"><o r="0,0,-1,1,0,0,0,-1,0" bc="545454" ac="545454" sc="5"><vp y="51" z="6"/></o></c><c d="handle"><o r="0,0,-1,-1,0,0,0,1,0" bc="545454" ac="545454" sc="5"><vp y="49" z="4"/><logic_slots/></o></c><c d="02_wedge"><o r="1,0,0,0,-1,0,0,0,-1" bc="545454" ac="545454" sc="5"><vp y="49" z="8"/></o></c><c d="buzzer" t="1"><o bc="545454" bc2="FFFFFF" bc3="FFFFFF" sc="5,545454,545454,545454,x,545454" decimal_point_pos="3" audio_data="seatbelt" pitch="1.627"><vp y="50" z="4"/><logic_slots><slot/><slot/><slot editor_connected="1"/></logic_slots><min_value text="-1.0" value="-1"/><max_value text="1.0" value="1"/></o></c><c d="handle"><o r="0,0,1,0,1,0,-1,0,0" bc="545454" ac="545454" sc="5"><vp y="50" z="5"/><logic_slots/></o></c><c d="sign_na"><o bc="545454" ac="545454" sc="6" custom_name="Hold Bottom 2 Handles for Aiming, Hold Top Handle and Hardpoint when reloading" gc="545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,x,545454,x,545454,x,x,x,545454,545454,545454,x,545454,545454,x,x,x,545454,545454,x,545454,x,545454,x,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454,545454"><vp y="49" z="1"/><logic_slots><slot/></logic_slots></o></c><c d="window_1x1"><o r="0,0,-1,1,0,0,0,-1,0" bc="545454" ac="545454" sc="4"><vp x="-1" y="51" z="5"/></o></c><c d="microprocessor"><o r="0,0,-1,0,0,0,0,0,0" bc="C2C3C7" bc2="FFFFFF" bc3="FFFFFF" sc="22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7"><microprocessor_definition name="MANPAD" width="5" length="1" id_counter="116" id_counter_node="21" sym1="4064" sym2="256" sym3="256" sym4="256" sym5="256" sym6="256" sym7="256" sym8="256" sym9="256" sym10="256" sym11="288" sym12="320" sym13="384" sym14="256"><nodes><n id="14" component_id="95"><node label="DATA" mode="1" type="5" description="The input signal to be processed."/></n><n id="18" component_id="106"><node label="buzzer" description="The input signal to be processed."><position x="1"/></node></n><n id="19" component_id="108"><node label="launch" description="The input signal to be processed."><position x="2"/></node></n><n id="20" component_id="115"><node label="Mains" description="The input signal to be processed."><position x="3"/></node></n><n id="21" component_id="116"><node label="IR" description="The input signal to be processed."><position x="4"/></node></n></nodes><group><data type="807534643"><inputs/><outputs/></data><components><c type="29"><object id="85" i="1"><pos x="1.75" y="0.25"/><in1 component_id="95"/><out1/></object></c><c type="29"><object id="86" i="2"><pos x="1.75" y="-0.25"/><in1 component_id="95"/><out1/></object></c><c type="29"><object id="111" i="3"><pos x="1.75" y="-0.75"/><in1 component_id="95"/><out1/></object></c><c type="29"><object id="112" i="4"><pos x="1.75" y="-1.25"/><in1 component_id="95"/><out1/></object></c></components><components_bridge><c type="4"><object id="95"><pos x="0.5"/><in1/><out1/></object></c><c type="1"><object id="106"><pos x="3" y="0.25"/><in1 component_id="85"/><out1/></object></c><c type="1"><object id="108"><pos x="3" y="-0.25"/><in1 component_id="86"/><out1/></object></c><c type="1"><object id="115"><pos x="3" y="-0.75"/><in1 component_id="111"/><out1/></object></c><c type="1"><object id="116"><pos x="3" y="-1.25"/><in1 component_id="112"/><out1/></object></c></components_bridge><groups/></group></microprocessor_definition><vp y="51"/><logic_slots><slot/><slot/><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="02_wedge"><o r="-1,0,0,0,-1,0,0,0,1" bc="545454" ac="545454" sc="5"><vp y="49" z="-4"/></o></c><c d="microprocessor"><o r="0,0,-1,0,0,0,0,0,0" bc="C2C3C7" bc2="FFFFFF" bc3="FFFFFF" sc="18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,C2C3C7,C2C3C7,C2C3C7,C2C3C7"><microprocessor_definition name="MANPAD" width="4" length="1" id_counter="101" id_counter_node="14" sym1="4064" sym2="256" sym3="256" sym4="256" sym5="256" sym6="256" sym7="256" sym8="256" sym9="256" sym10="256" sym11="288" sym12="320" sym13="384" sym14="256"><nodes><n id="11" component_id="93"><node label="DATA" type="5" description="The input signal to be processed."/></n><n id="12" component_id="95"><node label="HARDPOINT" mode="1" type="1" description="The input signal to be processed."><position x="1"/></node></n><n id="13" component_id="97"><node label="SIGNAL" mode="1" type="1" description="The input signal to be processed."><position x="2"/></node></n><n id="14" component_id="99"><node label="BATTERY" mode="1" type="1" description="The input signal to be processed."><position x="3"/></node></n></nodes><group><data type="807534643"><inputs/><outputs/></data><components><c type="40"><object id="100" count="3"><pos x="4" y="-1"/><inc/><in1 component_id="95"/><in2 component_id="97"/><in3 component_id="99"/><out1/></object></c><c type="43"><object id="101" l="value"><pos x="4" y="0.5"/><in1 component_id="95"/><in2/></object></c></components><components_bridge><c type="5"><object id="93"><pos x="5.25" y="-0.25"/><in1 component_id="100"/><out1/></object></c><c type="2"><object id="95"><pos x="2.75" y="-0.5"/><in1/><out1/></object></c><c type="2"><object id="97"><pos x="2.75" y="-0.75"/><in1/><out1/></object></c><c type="2"><object id="99"><pos x="2.75" y="-1"/><in1/><out1/></object></c></components_bridge><groups/></group></microprocessor_definition><vp y="51" z="4"/><logic_slots><slot/><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="microprocessor" t="2"><o r="0,0,-1,-1,0,0,0,1,0" bc="545454" ac="545454" sc="28"><microprocessor_definition name="MANPAD" width="4" length="2" id_counter="223" id_counter_node="26" transform_index="2" sym1="4064" sym2="256" sym3="256" sym4="256" sym5="256" sym6="256" sym7="256" sym8="256" sym9="256" sym10="256" sym11="288" sym12="320" sym13="384" sym14="256"><nodes><n id="11" component_id="86"><node label="Input" mode="1" type="6" description="The input signal to be processed."><position x="2"/></node></n><n id="12" component_id="90"><node label="Output" type="6" description="The input signal to be processed."><position x="2" z="1"/></node></n><n id="14" component_id="92"><node label="Panel" mode="1" type="5" description="The input signal to be processed."/></n><n id="19" component_id="108"><node label="RADAR" mode="1" type="5" description="The input signal to be processed."><position z="1"/></node></n><n id="20" component_id="111"><node label="FOV" type="1" description="The input signal to be processed."><position x="1" z="1"/></node></n><n id="21" component_id="198"><node label="Radar" type="5" description="The input signal to be processed."><position x="3"/></node></n><n id="25" component_id="194"><node label="IFF Radio" mode="1" type="5" description="The input signal to be processed."><position x="3" z="1"/></node></n><n id="26" component_id="215"><node label="DATA" mode="1" type="5" description="The input signal to be processed."><position x="1"/></node></n></nodes><group><data type="807534643"><inputs/><outputs/></data><components><c type="56"><object id="96" script='
+s,i,o=screen,input,output
+gn,gb,sn,sb=i.getNumber,i.getBool,o.setNumber,o.setBool
+SC,DL,DR,DTX,DRF=s.setColor,s.drawLine,s.drawRect,s.drawText,s.drawRectF
+function onTick()
+	
+	dist=gn(1)
+	x=gn(2)
+	y=gn(3)
+	fov=gn(4)
+	size=gn(5)
+	hp=gn(6)
+	rdrfov=gn(7)*360
+	rdrmax=gn(8)
+	lock=gb(1)
+	blink=gb(2)
+	power=gb(3)
+	radar=gb(4)
+	IR=gb(5)
+	IFF=gb(6)
+	
+	
+	dp=(dist/rdrmax)*32
+	
+	dfov=((135-1.43)*(1-fov))+1.43
+	dx=(x*360)
+	dy=(y*360)
+	
+	sx=(dx/dfov)*32
+	sy=(dy/dfov)*32
+	
+	ret=((rdrfov/dfov)*32)+1
+		
+end
+
+function onDraw()
+if power then
+	if not IR then
+	
+	if hp ~=0 then
+	SC(255,255,255,100)
+	DL(30,0,31.25,0.25)
+	DL(30,31,31.25,31.25)
+	DL(31,1,31.25,30.25)
+	if lock then
+	SC(255,0,0)
+	DL(29,30-dp,31.25,30.25-dp)
+	DR((15+sx)-size/2,(14-sy)-size/2,size+2,size+2)
+	if blink then
+	SC(0,255,0)
+	else
+	SC(0,255,0,100)
+	end
+	DR(15.5-(ret/2),15.5-(ret/2),ret,ret)
+	else 
+	SC(0,255,0,200)
+	DR(15.5-(ret/2),15.5-(ret/2),ret,ret)
+	end
+	else
+	end
+	
+	else
+	
+	if hp ~=0 then
+	SC(255,255,255,200)
+	DL(0,0,1.25,0.25)
+	DL(0,31,1.25,31.25)
+	DL(0,1,0.25,30.25)
+	if lock then
+	SC(255,0,0)
+	DL(0,30-dp,2,30.25-dp)
+	DR((15+sx)-size/2,(14-sy)-size/2,size+2,size+2)
+	if blink then
+	SC(0,0,0,200)
+	else
+	SC(0,0,0,100)
+	end
+	DR(15.5-(ret/2),15.5-(ret/2),ret,ret)
+	else 
+	SC(0,0,0,200)
+	DR(15.5-(ret/2),15.5-(ret/2),ret,ret)
+	end
+	else
+	SC(0,0,0)
+	DRF(0,0,32,32)
+	SC(255,0,0)
+	DTX(5,13,"EMPTY")
+	end
+	end
+
+	if IFF then
+	SC(0,0,255)
+	DTX(9,13,"IFF")
+	else end
+
+
+else
+end
+	
+end'><pos x="7.5" y="0.75"/><in1 component_id="101"/><in2 component_id="86"/><out1/><out2/></object></c><c type="40"><object id="101" count="5" offset="3"><pos x="4.75"/><inc component_id="126"/><in1 component_id="117"/><in2 component_id="123"/><in3 component_id="211"/><in4 component_id="158"/><in5 component_id="157"/><out1/></object></c><c type="26"><object id="106" ct="5" dt="0.1"><pos x="2"/><in1 component_id="178"/><out1/></object></c><c type="29"><object id="116"><pos x="-2.25" y="3.75"/><in1 component_id="92"/><out1/></object></c><c type="37"><object id="117" m="1"><pos x="-1" y="2.25"/><in1 component_id="119"/><in2 component_id="120"/><in3 component_id="118"/><out1/><r text="0.5" value="0.5"/><i text="0.005" value="0.005"/><min text="0"/><max text="1" value="1"/></object></c><c><object id="118"><pos x="-2.25" y="2.25"/><in1 component_id="116"/><out1/></object></c><c type="29"><object id="119" i="1"><pos x="-2.25" y="2.75"/><in1 component_id="92"/><out1/></object></c><c type="29"><object id="120" i="2"><pos x="-2.25" y="2.5"/><in1 component_id="92"/><out1/></object></c><c type="51"><object id="122" u="1"><pos x="2.75" y="4"/><in1 component_id="178"/><in2 component_id="159"/><in3 component_id="122"/><out1/></object></c><c type="37"><object id="123" m="1"><pos x="2.75" y="3"/><in1/><in2 component_id="122"/><in3 component_id="124"/><out1/><r text="15" value="15"/><i text="1" value="1"/><min text="0"/><max text="15" value="15"/></object></c><c><object id="124"><pos x="1.5" y="2.25"/><in1 component_id="178"/><out1/></object></c><c type="29"><object id="125" i="3"><pos x="-2.25" y="4.5"/><in1 component_id="92"/><out1/></object></c><c type="41"><object id="126" count="6"><pos x="2.75" y="1"/><inc component_id="108"/><in1 component_id="178"/><in2 component_id="134"/><in3 component_id="116"/><in4 component_id="139"/><in5 component_id="125"/><in6 component_id="183"/><out1/></object></c><c type="29"><object id="127"><pos x="-1" y="1.5"/><in1 component_id="108"/><out1/></object></c><c type="1"><object id="128"><pos x="0.25" y="1.25"/><in1 component_id="127"/><in2 component_id="162"/><out1/></object></c><c type="31"><object id="133"><pos x="-2.25" y="1.25"/><in1 component_id="108"/><out1/></object></c><c type="27"><object id="134" on="0.2" off="0.2"><pos x="1.5" y="1.25"/><in1 component_id="178"/><out1/></object></c><c type="56"><object id="138" script='s,i,o,st=screen,input,output,string
+gn,gb,sn,sb=i.getNumber,i.getBool,o.setNumber,o.setBool
+frmt=st.format
+SC,DL,DR,DTX,DRF=s.setColor,s.drawLine,s.drawRect,s.drawText,s.drawRectF
+function onTick()
+
+	counter=gn(1)*100
+	
+	counterbar=(counter*0.18)+1
+	
+	counterf=frmt("%.0f",counter)
+	
+	if counter == 100 then
+
+		sb(1,true)
+	else
+		sb(1,false)
+	end
+	
+end
+	
+function onDraw()
+
+	--SC(10,10,10)
+	--DRF(0,0.5,32,32)
+	
+	--SC(0,0,0)
+	--DTX(2,6,"MANPAD")
+	--DTX(8,21,counterf)
+	
+	SC(0,255,0)	
+	--DTX(1,6,"MANPAD")
+	--DTX(7,21,counterf)
+	
+	--DR(1,12,29,7)
+	--DRF(1,12.5,counterbar,8)
+	DR(6,13,19,5)
+	DRF(6,13.5,counterbar,6)
+	
+	
+	
+	
+	
+end
+	'><pos x="7.5"/><in1 component_id="149"/><in2/><out1/><out2/></object></c><c type="29"><object id="139"><pos x="7.5" y="-0.5"/><in1 component_id="138"/><out1/></object></c><c type="57"><object id="140"><pos x="10.25" y="-1"/><in1 component_id="96" node_index="1"/><in2 component_id="138" node_index="1"/><in3 component_id="139"/><out1/></object></c><c type="29"><object id="147"><pos x="-3.5" y="-1.25"/><in1 component_id="92"/><out1/></object></c><c type="40"><object id="149" count="1"><pos x="5.75" y="-1.25"/><inc/><in1 component_id="152"/><out1/></object></c><c type="27"><object id="151" on="0.3" off="0.3"><pos x="0.75" y="-1.25"/><in1 component_id="204"/><out1/></object></c><c type="37"><object id="152" m="1"><pos x="4" y="-1.75"/><in1 component_id="192"/><in2/><in3 component_id="153"/><out1/><r text="0"/><i text="0.01" value="0.01"/><min text="0"/><max text="1" value="1"/></object></c><c><object id="153"><pos x="0.75" y="-2.5"/><in1 component_id="204"/><out1/></object></c><c type="34"><object id="157" n="Radar Max Lock Dist"><pos x="3.25" y="-0.5"/><out1/><v text="1632" value="1632"/></object></c><c type="34"><object id="158" n="Radar FOV"><pos x="3.25"/><out1/><v text="0.07" value="0.07"/></object></c><c type="45"><object id="159" e="clamp(x,3,15)"><pos x="4" y="3.5"/><in1 component_id="123"/><out1/></object></c><c type="18"><object id="161"><pos x="-1" y="0.75"/><in1 component_id="133"/><in2 component_id="157"/><out1/></object></c><c type="1"><object id="162"><pos x="0.25" y="0.5"/><in1 component_id="161"/><in2 component_id="163"/><out1/></object></c><c type="17"><object id="163"><pos x="-1"/><in1 component_id="133"/><in2 component_id="164"/><out1/></object></c><c type="34"><object id="164" n="Min Lock Dist"><pos x="-2.25"/><out1/><v text="100" value="100"/></object></c><c type="10"><object id="175" e="x*y*z"><pos x="-4" y="5.25"/><in1 component_id="188"/><in2 component_id="213"/><in3 component_id="200"/><out1/></object></c><c type="42"><object id="176"><pos x="0.25" y="5.5"/><in1 component_id="201"/><in2 component_id="177"/><out1/><e text="50" value="50"/></object></c><c type="31"><object id="177"><pos x="0.25" y="5.25"/><in1 component_id="108"/><out1/></object></c><c type="1"><object id="178"><pos x="0.25" y="1.75"/><in1 component_id="128"/><in2 component_id="179"/><out1/></object></c><c><object id="179"><pos x="0.25" y="4.75"/><in1 component_id="183"/><out1/></object></c><c type="44"><object id="180" l="value" on="on" off="off"><pos x="3.75" y="5.75"/><in1 component_id="183"/></object></c><c type="43"><object id="181" l="A"><pos x="0.25" y="6.5"/><in1 component_id="201"/><in2/></object></c><c type="43"><object id="182" l="B"><pos x="1.5" y="6.25"/><in1 component_id="177"/><in2/></object></c><c type="1"><object id="183"><pos x="1.75" y="5.5"/><in1 component_id="176"/><in2 component_id="185"/><out1/></object></c><c type="12"><object id="184"><pos x="-1" y="5"/><in1 component_id="177"/><out1/><min text="0"/><max text="0"/></object></c><c><object id="185"><pos x="1.75" y="5"/><in1 component_id="206"/><out1/></object></c><c type="20"><object id="186" name="IFF Radio Type (Cant be small)" v="1000"><pos x="-6.5" y="5.5"/><out1/><items><i l="Med"><v text="1000" value="1000"/></i><i l="Large"><v text="4000" value="4000"/></i><i l="Huge"><v text="20000" value="20000"/></i></items></object></c><c type="6"><object id="188"><pos x="-5.25" y="5.25"/><in1 component_id="186"/><in2 component_id="195"/><out1/></object></c><c type="27"><object id="189" on="0.7" off="0.7"><pos x="0.75" y="-1.5"/><in1 component_id="204"/><out1/></object></c><c type="27"><object id="190" on="0.5" off="0.5"><pos x="0.75" y="-1.75"/><in1 component_id="204"/><out1/></object></c><c type="27"><object id="191" on="0.9" off="0.9"><pos x="0.75" y="-2"/><in1 component_id="204"/><out1/></object></c><c type="46"><object id="192" e="x|y|z|w"><pos x="2.25" y="-2"/><in1 component_id="151"/><in2/><in3 component_id="190"/><in4/><out1/></object></c><c type="31"><object id="195"><pos x="-6.5" y="5"/><in1 component_id="194"/><out1/></object></c><c type="43"><object id="197" l="Max Distance"><pos x="-2.75" y="6.25"/><in1 component_id="175"/><in2/></object></c><c type="41"><object id="199" count="5"><pos x="8.75" y="1.75"/><inc/><in1 component_id="139"/><in2 component_id="122"/><in3 component_id="106"/><in4 component_id="116"/><in5 component_id="125"/><out1/></object></c><c type="31"><object id="200" i="1"><pos x="-5.25" y="4.25"/><in1 component_id="194"/><out1/></object></c><c type="10"><object id="201" e="x*(1-y)"><pos x="-2.75" y="5.25"/><in1 component_id="175"/><in2 component_id="212"/><in3/><out1/></object></c><c type="12"><object id="202"><pos x="-3.5" y="-0.5"/><in1 component_id="211"/><out1/><min text="0"/><max text="0"/></object></c><c><object id="203"><pos x="-3.5" y="-1.75"/><in1 component_id="202"/><out1/></object></c><c type="1"><object id="204"><pos x="-1.75" y="-1.75"/><in1 component_id="147"/><in2 component_id="203"/><out1/></object></c><c type="2"><object id="206"><pos x="0.25" y="4"/><in1 component_id="184"/><in2 component_id="207"/><out1/></object></c><c type="12"><object id="207"><pos x="-1" y="4.75"/><in1 component_id="212"/><out1/><min text="0"/><max text="0"/></object></c><c type="57"><object id="208"><pos x="12" y="-0.75"/><in1 component_id="209" node_index="1"/><in2 component_id="140"/><in3 component_id="202"/><out1/></object></c><c type="56"><object id="209" script='s=screen
+
+SC,DL,DR,DTX,DRF=s.setColor,s.drawLine,s.drawRect,s.drawText,s.drawRectF
+
+	
+function onDraw()
+
+	SC(0,0,0)
+	DRF(0,0,32,32)
+	SC(255,0,0)
+	DTX(5,13,"EMPTY")
+	
+	
+end
+	'><pos x="10.25"/><in1/><in2/><out1/><out2/></object></c><c type="31"><object id="211"><pos x="-5.75" y="-0.5"/><in1 component_id="215"/><out1/></object></c><c type="31"><object id="212" i="1"><pos x="-4" y="4.75"/><in1 component_id="215"/><out1/></object></c><c type="31"><object id="213" i="2"><pos x="-5.25" y="4.75"/><in1 component_id="215"/><out1/></object></c><c type="43"><object id="216" l="value2"><pos x="-5.75" y="-1.5"/><in1 component_id="211"/><in2/></object></c></components><components_bridge><c type="6"><object id="86"><pos x="6" y="0.75"/><in1/><out1/></object></c><c type="7"><object id="90"><pos x="13.25" y="-0.25"/><in1 component_id="208"/><out1/></object></c><c type="4"><object id="92"><pos x="-4.75" y="2.75"/><in1/><out1/></object></c><c type="4"><object id="108"><pos x="-5.25" y="1.75"/><in1/><out1/></object></c><c type="3"><object id="111"><pos x="0.25" y="2.75"/><in1 component_id="117"/><out1/></object></c><c type="4"><object id="194"><pos x="-8" y="5"/><in1/><out1/></object></c><c type="5"><object id="198"><pos x="10" y="2.75"/><in1 component_id="199"/><out1/></object></c><c type="4"><object id="215"><pos x="-7.25" y="1.75"/><in1/><out1/></object></c></components_bridge><groups/></group></microprocessor_definition><vp y="49"/><logic_slots><slot/><slot><value/></slot><slot><value/></slot><slot><value/></slot><slot><value/></slot><slot><value/></slot><slot><value/></slot><slot><value/></slot></logic_slots></o></c><c><o r="1,0,0,0,0,-1,0,1,0" bc="545454" ac="545454" sc="6"><vp y="49" z="5"/></o></c><c><o r="1,0,0,0,0,-1,0,1,0" bc="545454" ac="545454" sc="6"><vp y="50" z="-4"/></o></c></components></body><body unique_id="1"><components><c d="radar_advanced_missile"><o r="1,0,0,0,0,1,0,-1,0" bc="545454" bc2="FFFFFF" bc3="FFFFFF" sc="1,x" m_fov_x="0.07" m_fov_y="0.07" m_sweep_mode="0"><vp y="48" z="8"/><logic_slots><slot editor_connected="1"/><slot/><slot/><slot><value/></slot><slot><value/></slot></logic_slots><m_sweep_limit text="0.01" value="0.01"/><m_sweep_speed text="1" value="1"/></o></c><c d="solid_rocket_small_fins" t="5"><o r="1,0,0,0,0,1,0,-1,0" bc="545454" bc2="FFFFFF" bc3="FFFFFF" sc="6,x,x,x,x,x,x"><vp y="48" z="7"/><logic_slots><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="warhead_body_small"><o r="1,0,0,0,0,-1,0,1,0" bc="C2C3C7" bc2="FFFFFF" bc3="FFFFFF" sc="10,x,x,x,x,x,x,x,x,x,x" property_ammo_damage="5"><vp y="48" z="6"/><logic_slots><slot editor_connected="1"/><slot/><slot/><slot/><slot/></logic_slots><impact_sensor_threshold text="20" value="20"/></o></c><c d="solid_rocket_small"><o r="1,0,0,0,0,3,0,-1,0" bc="C2C3C7" bc2="535353" bc3="535353" ac="535353" sc="6,535353,535353,535353,535353,535353,535353"><vp y="48" z="3"/><logic_slots><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="connector_hardpoint_b_round"><o r="1,0,0,0,1,0,0,0,1" bc="C2C3C7" ac="C2C3C7" sc="6" ordinance_type="10"><vp y="48" z="2"/><logic_slots><slot/><slot/><slot/><slot/><slot/><slot/><slot><value/></slot><slot><value/></slot><slot><value/></slot><slot><value/></slot></logic_slots></o></c><c d="solid_rocket_small"><o r="1,0,0,0,0,3,0,-1,0" bc="C2C3C7" bc2="535353" bc3="535353" ac="535353" sc="6,535353,535353,535353,535353,535353,535353"><vp y="48"/><logic_slots><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="solid_rocket_small_fins"><o r="0,-1,0,0,0,1,-1,0,0" bc="545454" bc2="C2C3C7" bc3="C2C3C7" ac="C2C3C7" sc="6,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7"><vp y="48" z="-2"/><logic_slots><slot/><slot/><slot><value/></slot></logic_slots></o></c><c d="solid_rocket_nozzle_small"><o r="1,0,0,0,0,-3,0,1,0" bc="545454" bc2="C2C3C7" bc3="C2C3C7" ac="C2C3C7" sc="5,C2C3C7,C2C3C7,C2C3C7,C2C3C7,C2C3C7" burn_rate="0.4"><vp y="48" z="-3"/><logic_slots><slot editor_connected="1"/><slot/><slot><value/></slot></logic_slots></o></c><c d="01_block_weight"><o r="0,0,0,0,0,0,0,-1,0" sc="6"><vp x="-1" y="48" z="9"/></o></c><c d="01_block_weight"><o r="0,0,0,0,0,0,0,-1,0" sc="6"><vp x="1" y="48" z="9"/></o></c><c d="microprocessor"><o r="0,0,-1,0,0,0,0,0,0" bc="C2C3C7" bc2="FFFFFF" bc3="FFFFFF" sc="14,x,x,x,x,x,x,x,x,x,x,x,x,x,x"><microprocessor_definition name="EPN Guidance Controller" description="By DJ Microwave" width="3" length="1" id_counter="101" id_counter_node="11" sym0="127" sym1="30079" sym2="5503" sym3="5503" sym4="6015" sym5="30079" sym6="127" sym7="65535" sym8="65535" sym9="57344" sym10="59950" sym11="59938" sym12="60142" sym13="60066" sym14="61166" sym15="57344"><nodes><n id="6" component_id="70"><node label="Radar Data" mode="1" type="5" description='Connect to Missile Radar "Radar Data" Connection.'><position x="1"/></node></n><n id="8" component_id="38"><node label="LOS Rate" mode="1" type="5" description='Connect to Missile Radar "Missile Output" Connection.'/></n><n id="9" component_id="71"><node label="Fins" type="5" description="Connect to Missile Fins."><position x="2"/></node></n></nodes><group><data type="807534643"><inputs/><outputs/></data><components><c type="31"><object id="75"><pos x="-1.5" y="0.5"/><in1 component_id="70"/><out1/></object></c><c type="40"><object id="76" count="3"><inc/><in1 component_id="75"/><in2 component_id="85"/><in3 component_id="86"/><out1/></object></c><c type="34"><object id="77" n="Guidance Constant"><pos x="1.5" y="1.25"/><out1/><v text="2" value="2"/></object></c><c type="56"><object id="84" script='--EPN guidance script by DJ MICROWAVE, heavily based of a script by eggroll.Source and Cromoly
+	
+	i,p,o= input,property,output
+	gn,pgn,sn = i.getNumber,p.getNumber,o.setNumber
+	
+	G = pgn("Guidance Constant")
+
+	av,ld,lx,ldx1,ldx2,ldx3,ly,ldy1,ldy2,ldy3 = 0,0,0,0,0,0,0,0,0,0
+	
+function onTick()
+	
+		d,x,y = gn(1),gn(2),gn(3)
+		
+			cv = ld - d
+			av = av + (cv-av)/2
+	
+			dx1 = x - lx 
+			dy1 = y - ly 
+
+			dx2 = dx1 - ldx1
+			dy2 = dy1 - ldy1		
+			
+			dx3 = dx2 - ldx2
+			dy3 = dy2 - ldy2
+			
+			dx4 = dx3 - ldx3
+			dy4 = dy3 - ldy3		
+	
+		X = x*av*0.12 + dx1*0.1 + dx2*0.025 + dx3*0.0025 + dx4*0.00025 
+		Y = y*av*0.12 + dy1*0.1 + dy2*0.025 + dy3*0.0025 + dy4*0.00025 
+	
+		ld,lx,ldx1,ldx2,ldx3,ly,ldy1,ldy2,ldy3 = d,x,dx1,dx2,dx3,y,dy1,dy2,dy3
+
+	sn(1,X*G)
+	sn(2,Y*G)
+	
+end'><pos x="1.5" y="0.5"/><in1 component_id="76"/><in2/><out1/><out2/></object></c><c type="31"><object id="85"><pos x="-1.5" y="0.25"/><in1 component_id="38"/><out1/></object></c><c type="31"><object id="86" i="1"><pos x="-1.5"/><in1 component_id="38"/><out1/></object></c></components><components_bridge><c type="4"><object id="38"><pos x="-3"/><in1/><out1/></object></c><c type="4"><object id="70"><pos x="-3" y="0.5"/><in1/><out1/></object></c><c type="5"><object id="71"><pos x="3" y="0.75"/><in1 component_id="84"/><out1/></object></c></components_bridge><groups/></group></microprocessor_definition><vp x="-1" y="48" z="8"/><logic_slots><slot><value/></slot><slot><value/></slot><slot><value/></slot></logic_slots></o></c><c d="microprocessor"><o r="0,0,1,0,0,0,0,0,0" bc="C2C3C7" bc2="FFFFFF" bc3="FFFFFF" sc="14,x,x,x,x,x,x,x,x,x,x,x,x,x,x"><microprocessor_definition name="AIM-9X Sidewinder Hardpoint system" width="3" length="1" id_counter="90" id_counter_node="11" sym1="4064" sym2="256" sym3="256" sym4="256" sym5="256" sym6="256" sym7="256" sym8="256" sym9="256" sym10="256" sym11="288" sym12="320" sym13="384" sym14="256"><nodes><n id="6" component_id="70"><node label="Data" mode="1" type="5" description="The input signal to be processed."/></n><n id="9" component_id="84"><node label="Radar" description="The input signal to be processed."><position x="2"/></node></n><n id="10" component_id="82"><node label="Launch" mode="1" description="The input signal to be processed."><position x="1"/></node></n></nodes><group><data type="807534643"><inputs/><outputs/></data><components><c type="29"><object id="85" i="-1"><pos x="-1.25" y="0.5"/><in1 component_id="70"/><out1/><in2 component_id="87"/></object></c><c type="2"><object id="86"><pos x="0.25"/><in1 component_id="85"/><in2 component_id="82"/><out1/></object></c><c type="19"><object id="87" name="Radar Activate Channel"><pos x="-2.75"/><out1/><min text="1" value="1"/><max text="32" value="32"/><int text="1" value="1"/><v text="1" value="1"/></object></c></components><components_bridge><c type="4"><object id="70"><pos x="-2.75" y="1"/><in1/><out1/></object></c><c><object id="82"><pos x="-1.25" y="-0.5"/><in1/><out1/></object></c><c type="1"><object id="84"><pos x="1.75" y="0.25"/><in1 component_id="86"/><out1/></object></c></components_bridge><groups/></group></microprocessor_definition><vp x="1" y="48" z="6"/><logic_slots><slot/><slot/><slot><value/></slot></logic_slots></o></c></components></body></bodies><logic_node_links><logic_node_link type="4"><voxel_pos_0 y="48" z="2"/><voxel_pos_1 y="48" z="7"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 y="48" z="2"/><voxel_pos_1 y="48" z="8"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 y="50" z="6"/><voxel_pos_1 y="50" z="7"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 y="50" z="6"/><voxel_pos_1 x="-1" y="50" z="6"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="-1" y="50" z="6"/><voxel_pos_1 x="-1" y="51" z="6"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 y="48" z="2"/><voxel_pos_1 y="48" z="-2"/></logic_node_link><logic_node_link><voxel_pos_0 y="48" z="2"/><voxel_pos_1 y="48" z="-3"/></logic_node_link><logic_node_link><voxel_pos_0 y="51" z="-2"/><voxel_pos_1 y="50" z="1"/></logic_node_link><logic_node_link><voxel_pos_0 y="51" z="-1"/><voxel_pos_1 y="50" z="4"/></logic_node_link><logic_node_link><voxel_pos_0 y="51" z="-3"/><voxel_pos_1 x="-1" y="51" z="6"/></logic_node_link><logic_node_link><voxel_pos_0 y="51" z="-4"/><voxel_pos_1 y="50" z="7"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 y="50" z="2"/><voxel_pos_1 y="50" z="4"/></logic_node_link><logic_node_link type="1"><voxel_pos_0 y="49" z="6"/><voxel_pos_1 y="51" z="1"/></logic_node_link><logic_node_link type="1"><voxel_pos_0 y="50" z="3"/><voxel_pos_1 y="51" z="3"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="48" z="8"/><voxel_pos_1 x="-1" y="48" z="7"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 x="-1" y="48" z="6"/><voxel_pos_1 y="48" z="7"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="48" z="9"/><voxel_pos_1 x="-1" y="48" z="8"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="48" z="2"/><voxel_pos_1 x="1" y="48" z="6"/></logic_node_link><logic_node_link><voxel_pos_0 x="1" y="48" z="8"/><voxel_pos_1 y="48" z="8"/></logic_node_link><logic_node_link><voxel_pos_0 y="48" z="2"/><voxel_pos_1 x="1" y="48" z="7"/></logic_node_link><logic_node_link type="6"><voxel_pos_0 y="50" z="7"/><voxel_pos_1 y="49" z="-2"/></logic_node_link><logic_node_link type="6"><voxel_pos_0 y="50" z="-2"/><voxel_pos_1 x="-1" y="51" z="6"/></logic_node_link><logic_node_link type="1"><voxel_pos_0 y="50" z="-1"/><voxel_pos_1 y="50" z="8"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="50" z="3"/><voxel_pos_1 y="50"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 x="-1" y="50" z="6"/><voxel_pos_1 y="49"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="49" z="-3"/><voxel_pos_1 y="50" z="2"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="49" z="-3"/><voxel_pos_1 y="51"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="51" z="4"/><voxel_pos_1 y="49" z="-1"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 y="48" z="8"/><voxel_pos_1 y="49" z="2"/></logic_node_link><logic_node_link><voxel_pos_0 y="48" z="2"/><voxel_pos_1 y="48" z="6"/></logic_node_link></logic_node_links></vehicle>
