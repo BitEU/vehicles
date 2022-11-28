@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><vehicle data_version="2" is_static="false" bodies_id="8"><editor_placement_offset x="0" y="0" z="0"/><authors/><bodies><body unique_id="0"><initial_local_transform 00="1" 01="0" 02="0" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0" 21="0" 22="1" 23="0" 30="0" 31="0" 32="0" 33="1"/><local_transform 00="1" 01="0" 02="0" 03="0" 10="0" 11="1" 12="0" 13="0" 20="0" 21="0" 22="1" 23="0" 30="0" 31="0" 32="0" 33="1"/><components><c d="battery_small" t="0"><o r="0,0,-1,1,0,0,0,-1,0" bc="454545FF" ac="FFFFFFFF" sc="2,FFFFFFFF,FFFFFFFF" custom_name="" default_state="false" spawn_charge="1"><vp x="31" y="-1" z="-15"/><logic_slots><slot editor_connected="0" value="0"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/></logic_slots></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="30" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="29" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="28" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="27" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-15"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-14"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="26" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-16"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="25" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-17"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="24" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-18"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="23" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-19"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="22" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-20"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="21" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-21"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="20" y="-1" z="-22"/></o></c><c d="01_block" t="0"><o r="0,0,1,-1,0,0,0,-1,0" bc="FFFFFFFF" ac="FFFFFFFF" sc="6"><vp x="19" y="-1" z="-22"/></o></c><c d="rx_huge_v2" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="5" custom_name=""><vp x="29" y="0" z="-21"/><logic_slots><slot editor_connected="0"><value bools="0" 01="0" 02="0" 03="0" 04="0" 05="0" 06="0" 07="0" 08="0" 09="0" 10="0" 11="0" 12="0" 13="0" 14="0" 15="0" 16="0" 17="0" 18="0" 19="0" 20="0" 21="0" 22="0" 23="0" 24="0" 25="0" 26="0" 27="0" 28="0" 29="0" 30="0" 31="0" 32="0"/></slot><slot editor_connected="0"><value bools="0" 01="0" 02="0" 03="0" 04="0" 05="0" 06="0" 07="0" 08="0" 09="0" 10="0" 11="0" 12="0" 13="0" 14="0" 15="0" 16="0" 17="0" 18="0" 19="0" 20="0" 21="0" 22="0" 23="0" 24="0" 25="0" 26="0" 27="0" 28="0" 29="0" 30="0" 31="0" 32="0"/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="false"/></logic_slots></o></c><c d="rx_video_x" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="5" custom_name=""><vp x="25" y="0" z="-21"/><logic_slots><slot editor_connected="0"><value bools="0" 01="0" 02="0" 03="0" 04="0" 05="0" 06="0" 07="0" 08="0" 09="0" 10="0" 11="0" 12="0" 13="0" 14="0" 15="0" 16="0" 17="0" 18="0" 19="0" 20="0" 21="0" 22="0" 23="0" 24="0" 25="0" 26="0" 27="0" 28="0" 29="0" 30="0" 31="0" 32="0"/></slot><slot editor_connected="0"><value bools="0" 01="0" 02="0" 03="0" 04="0" 05="0" 06="0" 07="0" 08="0" 09="0" 10="0" 11="0" 12="0" 13="0" 14="0" 15="0" 16="0" 17="0" 18="0" 19="0" 20="0" 21="0" 22="0" 23="0" 24="0" 25="0" 26="0" 27="0" 28="0" 29="0" 30="0" 31="0" 32="0"/></slot><slot editor_connected="1"><value/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="false"/></logic_slots></o></c><c d="button_keypad_small" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="5" custom_name="" hold_duration="1" default_state="false" sensitivity="1" val_1_name="" val_2_name=""><vp x="29" y="0" z="-18"/><logic_slots><slot editor_connected="0" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/></logic_slots><min_lever_value text="0" value="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0" value="0"/></o></c><c d="button_keypad_small" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="5" custom_name="" hold_duration="1" default_state="false" sensitivity="1" val_1_name="" val_2_name=""><vp x="25" y="0" z="-18"/><logic_slots><slot editor_connected="0" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/></logic_slots><min_lever_value text="0" value="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0" value="0"/></o></c><c d="gate_bool_constant" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="1" custom_name="" sensitivity="0.2" timer_scalar_1="0.183" timer_scalar_2="0.183" lss_mode="0" func_type="0" property_text=""><vp x="27" y="0" z="-18"/><logic_slots><slot editor_connected="0" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="true"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0"><value bools="0" 01="0" 02="0" 03="0" 04="0" 05="0" 06="0" 07="0" 08="0" 09="0" 10="0" 11="0" 12="0" 13="0" 14="0" 15="0" 16="0" 17="0" 18="0" 19="0" 20="0" 21="0" 22="0" 23="0" 24="0" 25="0" 26="0" 27="0" 28="0" 29="0" 30="0" 31="0" 32="0"/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="0"><value/></slot></logic_slots><property_output_float_val text="0" value="0"/><min_threshold text="0" value="0"/><max_threshold text="0" value="0"/><pid_controller_ki text="1" value="1"/><pid_controller_kp text="1" value="1"/><pid_controller_kd text="1" value="1"/><pid_controller_max_error text="0" value="0"/><exp text="2" value="2"/><min_lever_value text="-1" value="-1"/><max_lever_value text="1" value="1"/><starting_lever_value text="0" value="0"/></o></c><c d="microprocessor" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="16" custom_name=""><microprocessor_definition name="Monitor Bar Gauge Mk 3" description="No description set." hide_in_inventory="false" width="2" length="2" id_counter="90" id_counter_node="4" transform_index="0" sym0="65535" sym1="57351" sym2="49155" sym3="32769" sym4="40569" sym5="32769" sym6="40569" sym7="32769" sym8="40569" sym9="32769" sym10="40569" sym11="32769" sym12="40569" sym13="49155" sym14="57351" sym15="65535"><nodes><n id="1" component_id="3" built_slot_index="0"><node orientation="0" label="Input1" mode="1" type="1" description="The input signal to be processed." flags="0"><position x="0" y="0" z="1"/></node></n><n id="2" component_id="4" built_slot_index="0"><node orientation="0" label="Input2" mode="1" type="1" description="The input signal to be processed." flags="0"><position x="0" y="0" z="0"/></node></n><n id="3" component_id="79" built_slot_index="0"><node orientation="0" label="Bar Gauge Video" mode="0" type="6" description="The input signal to be processed." flags="0"><position x="1" y="0" z="1"/></node></n></nodes><group id="0"><pos x="0" y="0"/><data type="-3160941" name="" desc=""><inputs/><outputs/></data><components><c type="56"><object id="76" script='--	 With special thanks to XLjedi for providing the gamma correction function "gFix"
+
+
+timer=0
+
+function onTick()
+	InputMax = property.getNumber("Input Max")
+	Input1 = input.getNumber(1)/InputMax
+	Input2 = input.getNumber(2)/InputMax
+	Splash = property.getBool("Splash Enable")
+	Horizontal = property.getBool("Horizontal Mode")
+	Taper = property.getBool("Taper Mode")
+	TaperLabelled = property.getBool("Taper Mode Labelled?")
+	TaperLabel = property.getText("Taper Mode Label")
+	TaperValueOn = property.getBool("Show Taper Value")
+	HorizontalValue = property.getBool("Horizontal Value")
+	if InputMax &lt; 10 then
+	TaperValue = string.format("%0.0f", input.getNumber(1)*100) .." %"
+	HorizontalValue1 = string.format("%0.0f", input.getNumber(1)*100) .." %"
+	HorizontalValue2 = string.format("%0.0f", input.getNumber(2)*100) .." %"
+	else
+	TaperValue = string.format("%0.1f", input.getNumber(1))
+	HorizontalValue1 = string.format("%0.1f", input.getNumber(1))
+	HorizontalValue2 = string.format("%0.1f", input.getNumber(2))
+	end
+	Green1 = {0,131,49}
+	Green2 = {0,158,29}
+	Green3 = {0,226,50}
+	Yellow1 = {255,231,39}	
+	Orange1 = {255,165,2}	
+	Orange2 = {255,127,39}
+	Red1 = {255,0,49}
+	
+	Inputs = {Input1, Input2}
+	
+	
+	--This is the table for segment colours. If you want to change a segment colour, edit the corresponding table entry below.
+	scC = {Green1, Green1, Green2, Green2, Green3, Green3, Yellow1, Yellow1, Orange1, Orange1, Orange2, Orange2, Red1 ,Red1}
+
+	segmenttb = {}
+	
+	if MonitorOn and timer&lt;255 then
+    	timer=timer+1
+  	end
+end	
+	function gFix(r,g,b)
+		r=r^2.2/255^2.2*r
+		g=g^2.2/255^2.2*g
+		b=b^2.2/255^2.2*b
+		return r,g,b
+	end
+
+	function Gauge(inputnum)	
+		inputX = Inputs[inputnum]
+		
+		
+		if Horizontal == false then
+		offset = ((inputnum-1)*15)
+		
+		Yoffset = 0 else
+		
+		
+		Yoffset = ((inputnum-1)*15)
+		
+		offset = 0
+		
+		end
+		
+		if inputnum &gt; 4 then
+		Yoffset = 32
+		end
+		
+		for i = 14,1,-1 do
+			screen.setColor(10,10,10)
+			if Horizontal == false then
+			screen.drawRectF(2+offset,(30-i*2)+Yoffset,13,1)
+			elseif Taper == false then
+			screen.drawRectF((1+i*2)+offset,2+Yoffset,1,13)
+			else
+			screen.drawRectF((1+i*2)+offset,2+Yoffset,1,5+i)
+			end
+			
+			if Horizontal == false and inputX &gt; 0.071428*i then
+			screen.setColor(gFix(table.unpack(scC[i])))
+			screen.drawRectF(2+offset,(30-i*2)+Yoffset,13,1)
+			elseif Taper == false and inputX &gt; 0.071428*i then
+			screen.setColor(gFix(table.unpack(scC[i])))
+			screen.drawRectF((1+i*2)+offset,2+Yoffset,1,13)
+			elseif inputX &gt; 0.071428*i then
+			screen.setColor(gFix(table.unpack(scC[i])))
+			screen.drawRectF((1+i*2)+offset,2+Yoffset,1,5+i) 
+			end                                                           
+		end
+	end
+	
+	
+function onDraw()
+
+	MonitorOn=true
+	w = screen.getWidth()
+	h = screen.getHeight()						
+	
+	
+	Gauge(1)
+	screen.setColor(255,255,255)
+	
+	if Taper and TaperLabelled then
+	screen.drawTextBox(2, 26, w-4, 5, TaperLabel)
+	end
+	if Taper and TaperValueOn then
+	screen.drawTextBox(2, 20, 100, 5, TaperValue)
+	end
+	
+
+	
+	if Taper == false then 
+	Gauge(2)
+	end
+	
+	if Horizontal == true and HorizontalValue == true and Taper == false then
+	screen.setColor(0,0,0)
+	screen.drawRectF(3,2,w,7)
+	screen.drawRectF(3,17,w,7)
+	screen.setColor(255,255,255)
+	screen.drawTextBox(3,3,w,5,HorizontalValue1)
+	screen.drawTextBox(3,18,w,5,HorizontalValue2)
+	end
+	
+	
+	if Splash and timer &lt; 150 then 
+	screen.setColor(0,0,0)
+	screen.drawRectF(0,0,w,h)	
+    screen.setColor(255,255,255)
+	screen.drawTextBox(1,8,w-2,h-8,"Script  by   Xebec")
+	end
+	
+	if Splash and timer &gt; 149 and timer &lt; 250 then
+	
+	screen.setColor(0,0,0)
+	screen.drawRectF(0,0,w,h)
+	screen.setColor(gFix(49,123,196))
+	screen.drawLine(2, 27, 30, 0)
+	screen.drawLine(3, 27, 31, 0)
+	screen.drawLine(4, 27, 32, 0)
+	screen.drawLine(5, 27, 33, 0)
+	screen.drawLine(6, 27, 34, 0)
+	screen.drawLine(7, 4, 22, 31)
+	screen.drawLine(8, 4, 23, 31)
+	screen.drawLine(9, 4, 24, 31)
+	screen.drawLine(10, 4, 25, 31)
+	screen.drawLine(11, 4, 26, 31)
+	screen.setColor(0,0,0)
+	screen.drawRectF(0,8.75,16,3)
+	screen.drawRectF(0,27.25,32,4.75)
+	screen.drawRectF(0,0,32,6.25)
+	end
+end'><pos x="-11.25" y="11.75"/><in1 component_id="77" node_index="0"/><in2 component_id="0" node_index="0"/><out1/><out2/></object></c><c type="40"><object id="77" count="8" offset="0"><pos x="-14" y="10"/><inc component_id="0" node_index="0"/><in1 component_id="3" node_index="0"/><in2 component_id="4" node_index="0"/><in3 component_id="0" node_index="0"/><in4 component_id="0" node_index="0"/><in5 component_id="0" node_index="0"/><in6 component_id="0" node_index="0"/><in7 component_id="0" node_index="0"/><in8 component_id="0" node_index="0"/><out1/></object></c><c type="56"><object id="80" script='--- This whole script is for the Right bar gauge
+function onTick()
+	Input2 = input.getNumber(2)
+	
+	Green1 = {0,131,49}
+	Green2 = {0,158,29}
+	Green3 = {0,226,50}
+	Yellow1 = {255,231,39}
+	Orange1 = {255,165,2}
+	Orange2 = {255,127,39}
+	Red1 = {255,0,49}
+	
+	
+	scC = {Green1, Green1, Green2, Green2, Green3, Green3, Yellow1, Yellow1, Orange1, Orange1, Orange2, Orange2, Red1 ,Red1}
+
+	
+	segmenttb = {"","","","","","","","","","","","","",""}
+	
+end	
+	function gFix(r,g,b)
+		r=r^2.2/255^2.2*r
+		g=g^2.2/255^2.2*g
+		b=b^2.2/255^2.2*b
+		return r,g,b
+	end
+
+	function mainfunction(input)
+		for i = 1,14,1 do
+			if input &gt; 0.071428*i then
+				segmenttb[i] = true
+			end
+		end
+	end
+
+	function mk2(input)	
+		for i = 14,1,-1 do
+			screen.setColor(10,10,10)
+			screen.drawRectF(17,30-i*2,13,1)
+			if input &gt; 0.071428*i then
+			screen.setColor(gFix(table.unpack(scC[i])))
+			screen.drawRectF(17,30-i*2,13,1) 
+			end                                                           
+		end
+	end
+	
+
+function onDraw()
+	
+	w = screen.getWidth()
+	h = screen.getHeight()						
+	mk2(Input2)
+			
+end	'><pos x="-2.25" y="19.25"/><in1 component_id="0" node_index="0"/><in2 component_id="0" node_index="0"/><out1/><out2/></object></c><c type="33"><object id="83" n="Splash Enable" on="Enabled" off="Disabled" v="true"><pos x="-13.75" y="21"/><out1/></object></c><c type="33"><object id="84" n="Horizontal Mode" on="Enable" off="Disable" v="true"><pos x="-13.75" y="20.25"/><out1/></object></c><c type="33"><object id="85" n="Taper Mode" on="Enable (Horizontal must be enabled)" off="Disable" v="false"><pos x="-13.75" y="19.5"/><out1/></object></c><c type="58"><object id="86" n="Taper Mode Label" v="THRTL"><pos x="-13.75" y="18"/></object></c><c type="33"><object id="87" n="Taper Mode Labelled?" on="Enable" off="Disable" v="true"><pos x="-13.75" y="18.75"/><out1/></object></c><c type="33"><object id="88" n="Show Taper Value" on="Enable" off="Disable" v="true"><pos x="-13.75" y="17.25"/><out1/></object></c><c type="34"><object id="89" n="Input Max"><pos x="-13.75" y="16.5"/><out1/><v text="1" value="1"/></object></c><c type="33"><object id="90" n="Horizontal Value" on="Enable" off="Disable" v="true"><pos x="-13.75" y="15.75"/><out1/></object></c></components><components_bridge><c type="2"><object id="3"><pos x="-16.25" y="11.75"/><in1 component_id="0" node_index="0"/><out1/></object></c><c type="2"><object id="4"><pos x="-16.25" y="11.25"/><in1 component_id="0" node_index="0"/><out1/></object></c><c type="7"><object id="79"><pos x="-7" y="12"/><in1 component_id="76" node_index="1"/><out1/></object></c></components_bridge><groups/></group></microprocessor_definition><vp x="22" y="0" z="-18"/><logic_slots><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0"><value/></slot></logic_slots></o></c><c d="mic" t="0"><o r="1,0,0,0,1,0,0,0,1" bc="FFFFFFFF" ac="FFFFFFFF" sc="5" custom_name="" sensitivity="0.2" timer_scalar_1="0.183" timer_scalar_2="0.183" lss_mode="0" func_type="0" property_text="" is_inverted="false"><vp x="27" y="0" z="-21"/><logic_slots><slot editor_connected="1" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="false"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0" value="0"/><slot editor_connected="0"><value bools="0" 01="0" 02="0" 03="0" 04="0" 05="0" 06="0" 07="0" 08="0" 09="0" 10="0" 11="0" 12="0" 13="0" 14="0" 15="0" 16="0" 17="0" 18="0" 19="0" 20="0" 21="0" 22="0" 23="0" 24="0" 25="0" 26="0" 27="0" 28="0" 29="0" 30="0" 31="0" 32="0"/></slot><slot editor_connected="0"><value/></slot><slot editor_connected="1"><value/></slot></logic_slots><property_output_float_val text="0" value="0"/><min_threshold text="0" value="0"/><max_threshold text="0" value="0"/><pid_controller_ki text="1" value="1"/><pid_controller_kp text="1" value="1"/><pid_controller_kd text="1" value="1"/><pid_controller_max_error text="0" value="0"/><exp text="2" value="2"/><min_lever_value text="-1" value="-1"/><max_lever_value text="1" value="1"/><starting_lever_value text="0" value="0"/></o></c></components><outer_compartment_fires count="0"/><compartment_fires size="0"/></body></bodies><logic_node_links><logic_node_link type="4"><voxel_pos_0 x="29" y="0" z="-21"/><voxel_pos_1 x="31" y="-1" z="-15"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="31" y="-1" z="-15"/><voxel_pos_1 x="25" y="0" z="-21"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="25" y="0" z="-18"/><voxel_pos_1 x="25" y="0" z="-21"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="29" y="0" z="-18"/><voxel_pos_1 x="29" y="0" z="-21"/></logic_node_link><logic_node_link type="0"><voxel_pos_0 x="27" y="0" z="-18"/><voxel_pos_1 x="29" y="0" z="-21"/></logic_node_link><logic_node_link type="1"><voxel_pos_0 x="29" y="0" z="-18"/><voxel_pos_1 x="29" y="1" z="-21"/></logic_node_link><logic_node_link type="1"><voxel_pos_0 x="25" y="0" z="-18"/><voxel_pos_1 x="25" y="0" z="-21"/></logic_node_link><logic_node_link type="6"><voxel_pos_0 x="23" y="0" z="-17"/><voxel_pos_1 x="25" y="0" z="-21"/></logic_node_link><logic_node_link type="0"><voxel_pos_0 x="27" y="0" z="-18"/><voxel_pos_1 x="27" y="0" z="-21"/></logic_node_link><logic_node_link type="7"><voxel_pos_0 x="27" y="0" z="-21"/><voxel_pos_1 x="29" y="0" z="-21"/></logic_node_link></logic_node_links></vehicle>
